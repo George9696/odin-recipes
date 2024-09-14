@@ -1,3 +1,20 @@
-h1{
+h1 {
+    color: rgb(27, 206, 27);
+    text-decoration: underline;
+    text-align: center;
+}
+
+h2 {
     color: blue;
+    text-decoration: underline;
+
+}
+
+p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.pics {
+    display: block;
+    margin: auto;
 }
